@@ -228,8 +228,7 @@ require (
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/pteich/errors v1.0.1 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
-	github.com/quic-go/qtls-go1-20 v0.4.1 // indirect
-	github.com/quic-go/quic-go v0.40.1 // indirect
+	github.com/quic-go/quic-go v0.42.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/redis/go-redis/v9 v9.3.0 // indirect
 	github.com/rs/cors v1.9.0 // indirect
