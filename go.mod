@@ -281,7 +281,7 @@ require (
 	github.com/zhouzhuojie/conditions v0.2.3 // indirect
 	github.com/zhouzhuojie/withtimeout v0.0.0-20190405051827-12b39eb2edd5 // indirect
 	go.etcd.io/bbolt v1.3.8 // indirect
-	go.mongodb.org/mongo-driver v1.4.5 // indirect
+	go.mongodb.org/mongo-driver v1.5.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.45.0 // indirect
 	go.opentelemetry.io/contrib/propagators/autoprop v0.42.0 // indirect
